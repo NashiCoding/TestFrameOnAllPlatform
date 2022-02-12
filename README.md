@@ -78,6 +78,5 @@ $ allure open .\report\xml\
 ```
 
 ## Maintenances
-
-BotTeam
+Nash
 
